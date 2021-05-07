@@ -1,0 +1,9 @@
+Script started on 2021-05-06 23:23:56-04:00
+]0;chrisark@br011:~/CISC372_hw5[chrisark@r004 CISC372_hw5]$ ./pthreadpic pic1.jpg edge[1Popenmp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K edge
+Took 8 seconds
+]0;chrisark@br011:~/CISC372_hw5[chrisark@r004 CISC372_hw5]$ ./pthreaad[K[Kdpic pic1.jopg[K[K[Kpg edge
+Took 6 seconds
+]0;chrisark@br011:~/CISC372_hw5[chrisark@r004 CISC372_hw5]$ exit
+exit
+
+Script done on 2021-05-06 23:24:34-04:00
